@@ -174,4 +174,5 @@ Proprietários e dependentes são conceitos utilizados para gerenciar a vida út
 
 ---
 Veja mais em: [Documentação](https://kubernetes.io/docs/concepts/overview/working-with-objects/owners-dependents/)
+
 ---
